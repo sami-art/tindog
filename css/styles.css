@@ -1,0 +1,141 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    
+}
+.container{
+    padding: 3% 15% 18%;
+}
+
+.heading{
+    font-family: Montserrat;
+     font-weight: 800;
+     font-size: 60px; 
+     padding-bottom: 2rem;
+}
+
+.row{
+    padding-top: 4.5rem;
+    padding-left: 1rem;
+}
+/* .navbar{
+    padding: 0 0 4.5rem;
+   } */
+
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 1000;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+    left: 20%;
+}
+.download-btn {
+    margin: 2rem 1rem;
+}
+p{
+    color: #8f8f8f;
+}
+
+.headingt{
+    font-family: Montserrat-bold;
+    font-weight: bolder;
+
+}
+.htwo {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 6rem
+    line-height: 1.5;
+}
+
+
+    /* features section */
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+/* Testimonials section */
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.price-column{
+    padding: 1% 3% 2% 2%;
+}
+@media (max-width:1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+}
+.hthree {
+    font-family: Montserrat;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 900;
+    margin-bottom: 3rem;
+}
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 15% 15%;
+}
+#footer {
+    text-align: center;
+    padding: 8% 15%;
+    
+}
+.social-icon {
+    margin: 2rem 0.7rem
+}
